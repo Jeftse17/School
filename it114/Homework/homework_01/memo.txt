@@ -1,0 +1,7 @@
+1. I missed the part about setting up umb_email so I did not receive the code in time for this assignment. I have it set up now so I will not miss it for future assignments. Sorry for the inconvenience. 
+
+2. I am using FileZilla to connect remotely to users.cs.umb.edu.
+
+3. I am using FileZilla to upload files remotely to users.cs.umb.edu.
+
+4. Using FileZilla was pretty straightforward for me and it seems fairly simple. I had an issue with the quick connect button but am able to connect remotely with the site manager. I also am still a little new to using terminal, so I can get confused on how to do stuff with that. 

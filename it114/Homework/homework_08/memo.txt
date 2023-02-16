@@ -1,0 +1,15 @@
+1. How did the process of creating these programs go for you?
+
+2. What were your main challenges and how did you overcome them?
+
+3. What did you learn that may be of use as you move along in this class?
+
+----------------------------------------------------------------
+
+1. The process of creating this program went okay. I got hung up on a implementing "tryAgain"
+and found myself having pretty disorganized code.
+
+2. My main challenge was figuring out how to properly implement "tryAgain" but after enough testing and 
+chipping away at it little by little, I was able to get it working.
+
+3. Learning how to properly format my loops and update/print variables will be useful.
