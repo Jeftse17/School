@@ -1,7 +1,0 @@
-1. I found the process of creating these programs straight forward and fairly easy. I do have basic
-Java knowledge so I knew how to create these programs easily.
-
-2. My main challenge was just getting started and trying to remember how to use java correctly. I 
-Haven't used java in a year or two so I had to re-jog my memory a little bit. I forgot about "/n" so it took me a few minutes to remember how to make a new line and organize the code so it printed out correctly when the program was run.
-
-3. I didn't necessarily learn anything from these assignments since I had learned it before but it was very helpful for me to do these exercises so that the information came back to me.
